@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Rajita47/Mern_Stack/issues"
   },
-  "homepage": "https://github.com/Rajita47/Mern_Stack#readme"
+  "homepage": "https://github.com/Rajita47/Mern_Stack#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
